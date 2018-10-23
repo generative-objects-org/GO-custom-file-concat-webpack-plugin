@@ -2,7 +2,7 @@
     "name": "go-custom-file-concat-webpack-plugin",
     "description": "Webpack plugin used to concatenated together Custom files in GO generated apps",
     "authors": "Generative Objects",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "dependencies": {}
 }
